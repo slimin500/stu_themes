@@ -293,5 +293,4 @@ theme.Keyword      = "#4250EF"
 theme.Constant     = "#765040"
 
 table.insert(themes, theme)
-
 return themes
